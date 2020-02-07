@@ -10,7 +10,7 @@ Hello Cloud Shell Walkthrough.
 
 ### Run `gcloud auth list`
 
-```
+```bash
 gcloud auth list
 ```
 ## Conclusion
