@@ -8,10 +8,10 @@ Hello Cloud Shell Walkthrough.
 
 ### References
 
-1. https://cloud.google.com/shell/docs/walkthroughs
-2. https://cloud.google.com/shell/docs/walkthrough-markdown-reference
+1. [walkthrough tutorial](https://cloud.google.com/shell/docs/walkthroughs)
+2. [walkthrough markdown reference](https://cloud.google.com/shell/docs/walkthrough-markdown-reference)
 
-## Demo code snippet
+## Demo 1 - code snippet
 
 ```bash
 gcloud auth list
@@ -19,15 +19,19 @@ gcloud auth list
 
 NOTE: The resulting code snippet comes with a copy-to-clipboard button in the right-hand corner.
 
-## Demo project setup
+## Demo 2a - project setup
 
 <walkthrough-project-setup></walkthrough-project-setup>
 
-## Demo project and billing setup
+## Demo 2b - project and billing setup
 
 <walkthrough-project-billing-setup></walkthrough-project-billing-setup>
 
-## Demo open file
+## Demo 3 - enable apis
+
+<walkthrough-enable-apis apis="A,B"></walkthrough-enable-apis>
+
+## Demo 4 - open file
 
 e.g., open and edit the file "~/cloudshell_open/cloudshell-walkthrough/README.md"
 
@@ -35,11 +39,11 @@ e.g., open and edit the file "~/cloudshell_open/cloudshell-walkthrough/README.md
                               text="README.md">
 </walkthrough-editor-open-file>
 
-## Demo spotlights and buttons
+## Demo 5 - spotlights and buttons
 
 Most are not working! Only `web-preview` works!
 
-### inline icons
+### 5a inline icons
 
 <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon>
 <walkthrough-web-preview-icon></walkthrough-web-preview-icon>
@@ -49,7 +53,7 @@ Most are not working! Only `web-preview` works!
 <walkthrough-pin-section-icon></walkthrough-pin-section-icon>
 <walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
 
-### spotlight-pointer
+### 5b spotlight-pointer
 
 <walkthrough-spotlight-pointer spotlightId="console-nav-menu"
                                text="console-nav-menu">
@@ -67,7 +71,7 @@ Most are not working! Only `web-preview` works!
                                text="devshell-web-preview-button">
 </walkthrough-spotlight-pointer>
 
-## Demo data binding
+## Demo 6 data binding
 
 <walkthrough-watcher-constant key="my-key" value="Hello Google"></walkthrough-watcher-constant>
 
