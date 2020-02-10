@@ -11,6 +11,11 @@ Hello Cloud Shell Walkthrough.
 1. [walkthrough tutorial](https://cloud.google.com/shell/docs/walkthroughs)
 2. [walkthrough markdown reference](https://cloud.google.com/shell/docs/walkthrough-markdown-reference)
 
+### Other tutorials
+
+1. [cloud shell tutorial](https://github.com/GoogleCloudPlatform/cloud-shell-tutorials)
+2. [spinnaker for google cloud platform](https://console.cloud.google.com/marketplace/details/google-cloud-platform/spinnaker)
+
 ## Demo 1 - code snippet
 
 ```bash
@@ -28,6 +33,8 @@ NOTE: The resulting code snippet comes with a copy-to-clipboard button in the ri
 <walkthrough-project-billing-setup></walkthrough-project-billing-setup>
 
 ## Demo 3 - enable apis
+
+NOTW: Not working yet. Still trying to figure out the right way.
 
 <walkthrough-enable-apis apis="A,B"></walkthrough-enable-apis>
 
