@@ -36,7 +36,7 @@ NOTE: The resulting code snippet comes with a copy-to-clipboard button in the ri
 
 NOTE: Not working yet. Still trying to figure out the right way.
 
-<walkthrough-enable-apis apis="compute.googleapis.com,stackdriver.googleapis.com"></walkthrough-enable-apis>
+<walkthrough-enable-apis apis="compute.googleapis.com,stackdriver.googleapis.com,vision.googleapis.com"></walkthrough-enable-apis>
 
 ### Other tutorials
 
