@@ -26,11 +26,11 @@ NOTE: The resulting code snippet comes with a copy-to-clipboard button in the ri
 
 ## Demo 2a - project setup
 
-<walkthrough-project-setup></walkthrough-project-setup>
+<walkthrough-project-setup permissions="compute.instances.create"></walkthrough-project-setup>
 
 ## Demo 2b - project and billing setup
 
-<walkthrough-project-billing-setup></walkthrough-project-billing-setup>
+<walkthrough-project-billing-setup permissions="compute.instances.create"></walkthrough-project-billing-setup>
 
 ## Demo 3 - enable apis
 
