@@ -14,11 +14,11 @@ Hello Cloud Shell Walkthrough.
 gcloud auth list
 ```
 
-## Demo
+## Demo Directive
 
-### Directive editor-open-file
+### editor-open-file
 
-<walkthrough-editor-open-file filePath="README.md" text="Editing README.md">
+<walkthrough-editor-open-file filePath="cloudshell_open/cloudshell-walkthrough/README.md" text="Open and edit file README.md">
 </walkthrough-editor-open-file>
 
 ## Conclusion
