@@ -14,6 +14,9 @@ Hello Cloud Shell Walkthrough.
 gcloud auth list
 ```
 
+The resulting code snippet comes with a copy-to-clipboard button in the right-hand corner.
+
+
 ## Demo Directive
 
 ### editor-open-file
