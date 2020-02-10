@@ -86,6 +86,12 @@ Ok. A new cloud shell tab will be opened.
 
 <walkthrough-open-cloud-shell-button></walkthrough-open-cloud-shell-button>
 
+### 5d editor-spotlight
+
+Ok.
+
+<walkthrough-editor-spotlight spotlightId="fileMenu">file menu</walkthrough-editor-spotlight>
+
 ## Demo 6 data binding
 
 <walkthrough-watcher-constant key="my-key" value="Hello Google"></walkthrough-watcher-constant>
