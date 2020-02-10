@@ -34,9 +34,13 @@ NOTE: The resulting code snippet comes with a copy-to-clipboard button in the ri
 
 ## Demo 3 - enable apis
 
-NOTW: Not working yet. Still trying to figure out the right way.
+NOTE: Not working yet. Still trying to figure out the right way.
 
 <walkthrough-enable-apis apis="A,B"></walkthrough-enable-apis>
+
+### Other tutorials
+
+1. https://raw.githubusercontent.com/GoogleCloudPlatform/cloud-shell-tutorials/master/cloud-console-tutorials/python_vision_quickstart/python_vision_quickstart.md
 
 ## Demo 4 - open file
 
