@@ -71,7 +71,7 @@ Most are not working! Only `web-preview` works!
                                text="devshell-web-preview-button">
 </walkthrough-spotlight-pointer>
 
-## 5c open-cloud-shell-button
+### 5c open-cloud-shell-button
 
 <walkthrough-open-cloud-shell-button></walkthrough-open-cloud-shell-button>
 
