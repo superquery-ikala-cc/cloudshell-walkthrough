@@ -36,8 +36,20 @@ The resulting code snippet comes with a copy-to-clipboard button in the right-ha
 
 ### spotlight-pointer
 
+<walkthrough-spotlight-pointer spotlightId="console-nav-menu"
+                               text="console-nav-menu">
+</walkthrough-spotlight-pointer>
+
+<walkthrough-spotlight-pointer spotlightId="devshell-activate-button"
+                               text="devshell-activate-button">
+</walkthrough-spotlight-pointer>
+
+<walkthrough-spotlight-pointer spotlightId="devshell-web-editor-button"
+                               text="devshell-web-editor-button">
+</walkthrough-spotlight-pointer>
+
 <walkthrough-spotlight-pointer spotlightId="devshell-web-preview-button"
-                               text="Open Cloud Shell">
+                               text="devshell-web-preview-button">
 </walkthrough-spotlight-pointer>
 
 ## Conclusion
