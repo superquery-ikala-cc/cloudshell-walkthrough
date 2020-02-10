@@ -48,9 +48,9 @@ e.g., open and edit the file "~/cloudshell_open/cloudshell-walkthrough/README.md
 
 ## Demo 5 - spotlights and buttons
 
-Most are not working! Only `web-preview` works!
-
 ### 5a inline icons
+
+All failed except `web-preview`.
 
 <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon>
 <walkthrough-web-preview-icon></walkthrough-web-preview-icon>
@@ -61,6 +61,8 @@ Most are not working! Only `web-preview` works!
 <walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
 
 ### 5b spotlight-pointer
+
+All failed.
 
 <walkthrough-spotlight-pointer spotlightId="console-nav-menu"
                                text="console-nav-menu">
@@ -79,6 +81,8 @@ Most are not working! Only `web-preview` works!
 </walkthrough-spotlight-pointer>
 
 ### 5c open-cloud-shell-button
+
+Ok. A new cloud shell tab will be opened.
 
 <walkthrough-open-cloud-shell-button></walkthrough-open-cloud-shell-button>
 
