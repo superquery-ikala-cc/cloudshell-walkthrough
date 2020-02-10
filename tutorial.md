@@ -16,18 +16,23 @@ gcloud auth list
 
 The resulting code snippet comes with a copy-to-clipboard button in the right-hand corner.
 
+## Demo project setup
 
-## Demo Directive 1
+<walkthrough-project-setup></walkthrough-project-setup>
 
-### editor-open-file
+## Demo open file
+
+e.g., open and edit the file "~/cloudshell_open/cloudshell-walkthrough/README.md"
 
 <walkthrough-editor-open-file filePath="cloudshell_open/cloudshell-walkthrough/README.md" 
-                              text="Open and edit file README.md">
+                              text="README.md">
 </walkthrough-editor-open-file>
 
 ## Demo Directive 2
 
 ### cloud-shell-editor-icon
+
+[x]
 
 <walkthrough-cloud-shell-editor-icon>
 </walkthrough-cloud-shell-editor-icon>
@@ -35,6 +40,8 @@ The resulting code snippet comes with a copy-to-clipboard button in the right-ha
 ## Demo Directive 3
 
 ### spotlight-pointer
+
+[x]
 
 <walkthrough-spotlight-pointer spotlightId="console-nav-menu"
                                text="console-nav-menu">
