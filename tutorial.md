@@ -1,24 +1,31 @@
 # Cloud Shell Walkthrough
 
-## Step 1
+## Introduction
 
 ### Description
 
 Hello Cloud Shell Walkthrough.
 
-## Step 2
+### References
 
-### Run `gcloud auth list`
+1. https://cloud.google.com/shell/docs/walkthroughs
+2. https://cloud.google.com/shell/docs/walkthrough-markdown-reference
+
+## Demo code snippet
 
 ```bash
 gcloud auth list
 ```
 
-The resulting code snippet comes with a copy-to-clipboard button in the right-hand corner.
+NOTE: The resulting code snippet comes with a copy-to-clipboard button in the right-hand corner.
 
 ## Demo project setup
 
 <walkthrough-project-setup></walkthrough-project-setup>
+
+## Demo project and billing setup
+
+<walkthrough-project-billing-setup></walkthrough-project-billing-setup>
 
 ## Demo open file
 
@@ -28,20 +35,21 @@ e.g., open and edit the file "~/cloudshell_open/cloudshell-walkthrough/README.md
                               text="README.md">
 </walkthrough-editor-open-file>
 
-## Demo Directive 2
+## Demo spotlights and buttons
 
-### cloud-shell-editor-icon
+Not working!
 
-[x]
+### inline icons
 
-<walkthrough-cloud-shell-editor-icon>
-</walkthrough-cloud-shell-editor-icon>
-
-## Demo Directive 3
+<walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon>
+<walkthrough-web-preview-icon></walkthrough-web-preview-icon>
+<walkthrough-cloud-shell-editor-icon></walkthrough-cloud-shell-editor-icon>
+<walkthrough-nav-menu-icon></walkthrough-nav-menu-icon>
+<walkthrough-notification-menu-icon></walkthrough-notification-menu-icon>
+<walkthrough-pin-section-icon></walkthrough-pin-section-icon>
+<walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
 
 ### spotlight-pointer
-
-[x]
 
 <walkthrough-spotlight-pointer spotlightId="console-nav-menu"
                                text="console-nav-menu">
