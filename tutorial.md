@@ -96,6 +96,10 @@ Ok.
 
 <walkthrough-editor-spotlight spotlightId="fileMenu">file menu</walkthrough-editor-spotlight>
 
+### Other tutorials
+
+1. https://raw.githubusercontent.com/GoogleCloudPlatform/cloud-shell-tutorials/master/cloud-console-tutorials/storage_quickstart/storage_quickstart.md
+
 ## Demo 6 data binding
 
 <walkthrough-watcher-constant key="my-key" value="Hello Google"></walkthrough-watcher-constant>
