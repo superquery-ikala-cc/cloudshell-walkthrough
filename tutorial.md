@@ -27,6 +27,13 @@ The resulting code snippet comes with a copy-to-clipboard button in the right-ha
 
 ## Demo Directive 2
 
+### cloud-shell-editor-icon
+
+<walkthrough-cloud-shell-editor-icon>
+</walkthrough-cloud-shell-editor-icon>
+
+## Demo Directive 3
+
 ### spotlight-pointer
 
 <walkthrough-spotlight-pointer spotlightId="devshell-web-preview-button"
