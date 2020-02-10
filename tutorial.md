@@ -18,7 +18,7 @@ gcloud auth list
 
 ### Directive editor-open-file
 
-<walkthrough-editor-open-file filePath="readme.md">
+<walkthrough-editor-open-file filePath="README.md">
 </walkthrough-editor-open-file>
 
 ## Conclusion
