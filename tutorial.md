@@ -37,7 +37,7 @@ e.g., open and edit the file "~/cloudshell_open/cloudshell-walkthrough/README.md
 
 ## Demo spotlights and buttons
 
-Not working!
+Most are not working! Only `web-preview` works!
 
 ### inline icons
 
