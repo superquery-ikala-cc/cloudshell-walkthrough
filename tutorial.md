@@ -71,6 +71,10 @@ Most are not working! Only `web-preview` works!
                                text="devshell-web-preview-button">
 </walkthrough-spotlight-pointer>
 
+## 5c open-cloud-shell-button
+
+<walkthrough-open-cloud-shell-button></walkthrough-open-cloud-shell-button>
+
 ## Demo 6 data binding
 
 <walkthrough-watcher-constant key="my-key" value="Hello Google"></walkthrough-watcher-constant>
