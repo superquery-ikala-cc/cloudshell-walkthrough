@@ -67,6 +67,16 @@ Most are not working! Only `web-preview` works!
                                text="devshell-web-preview-button">
 </walkthrough-spotlight-pointer>
 
+## Demo data binding
+
+<walkthrough-watcher-constant key="my-key" value="Hello Google"></walkthrough-watcher-constant>
+
+My custom key "my-key" and value "{{my-key}}"
+
+Built-in key "project-id" and value "{{project-id}}"
+
+Built-in key "project-name" and value "{{project-name}}"
+
 ## Conclusion
 
 Done!
